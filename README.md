@@ -3,4 +3,4 @@
 How to run a single js file
 =============================
 - Download Node.js
-- Run node <file location> in terminal
+- Run node (file location) in terminal
