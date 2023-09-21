@@ -1,1 +1,1 @@
-# simple_js_project
+# JavaScript Project
